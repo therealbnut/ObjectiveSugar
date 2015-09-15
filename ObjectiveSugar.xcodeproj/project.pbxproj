@@ -10,17 +10,17 @@
 		4923F9D31B855212002A6654 /* ObjectiveSugar.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4923F9C81B855212002A6654 /* ObjectiveSugar.framework */; };
 		4923FA281B855682002A6654 /* ObjectiveSugar.h in Headers */ = {isa = PBXBuildFile; fileRef = 4923FA1A1B855682002A6654 /* ObjectiveSugar.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4923FA431B8556C3002A6654 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4923FA361B8556C3002A6654 /* Info.plist */; };
-		4923FA441B8556C3002A6654 /* NSArray+ObjectiveSugar.h in Headers */ = {isa = PBXBuildFile; fileRef = 4923FA371B8556C3002A6654 /* NSArray+ObjectiveSugar.h */; };
+		4923FA441B8556C3002A6654 /* NSArray+ObjectiveSugar.h in Headers */ = {isa = PBXBuildFile; fileRef = 4923FA371B8556C3002A6654 /* NSArray+ObjectiveSugar.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4923FA451B8556C3002A6654 /* NSArray+ObjectiveSugar.m in Sources */ = {isa = PBXBuildFile; fileRef = 4923FA381B8556C3002A6654 /* NSArray+ObjectiveSugar.m */; };
-		4923FA461B8556C3002A6654 /* NSDictionary+ObjectiveSugar.h in Headers */ = {isa = PBXBuildFile; fileRef = 4923FA391B8556C3002A6654 /* NSDictionary+ObjectiveSugar.h */; };
+		4923FA461B8556C3002A6654 /* NSDictionary+ObjectiveSugar.h in Headers */ = {isa = PBXBuildFile; fileRef = 4923FA391B8556C3002A6654 /* NSDictionary+ObjectiveSugar.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4923FA471B8556C3002A6654 /* NSDictionary+ObjectiveSugar.m in Sources */ = {isa = PBXBuildFile; fileRef = 4923FA3A1B8556C3002A6654 /* NSDictionary+ObjectiveSugar.m */; };
-		4923FA481B8556C3002A6654 /* NSMutableArray+ObjectiveSugar.h in Headers */ = {isa = PBXBuildFile; fileRef = 4923FA3B1B8556C3002A6654 /* NSMutableArray+ObjectiveSugar.h */; };
+		4923FA481B8556C3002A6654 /* NSMutableArray+ObjectiveSugar.h in Headers */ = {isa = PBXBuildFile; fileRef = 4923FA3B1B8556C3002A6654 /* NSMutableArray+ObjectiveSugar.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4923FA491B8556C3002A6654 /* NSMutableArray+ObjectiveSugar.m in Sources */ = {isa = PBXBuildFile; fileRef = 4923FA3C1B8556C3002A6654 /* NSMutableArray+ObjectiveSugar.m */; };
-		4923FA4A1B8556C3002A6654 /* NSNumber+ObjectiveSugar.h in Headers */ = {isa = PBXBuildFile; fileRef = 4923FA3D1B8556C3002A6654 /* NSNumber+ObjectiveSugar.h */; };
+		4923FA4A1B8556C3002A6654 /* NSNumber+ObjectiveSugar.h in Headers */ = {isa = PBXBuildFile; fileRef = 4923FA3D1B8556C3002A6654 /* NSNumber+ObjectiveSugar.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4923FA4B1B8556C3002A6654 /* NSNumber+ObjectiveSugar.m in Sources */ = {isa = PBXBuildFile; fileRef = 4923FA3E1B8556C3002A6654 /* NSNumber+ObjectiveSugar.m */; };
-		4923FA4C1B8556C3002A6654 /* NSSet+ObjectiveSugar.h in Headers */ = {isa = PBXBuildFile; fileRef = 4923FA3F1B8556C3002A6654 /* NSSet+ObjectiveSugar.h */; };
+		4923FA4C1B8556C3002A6654 /* NSSet+ObjectiveSugar.h in Headers */ = {isa = PBXBuildFile; fileRef = 4923FA3F1B8556C3002A6654 /* NSSet+ObjectiveSugar.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4923FA4D1B8556C3002A6654 /* NSSet+ObjectiveSugar.m in Sources */ = {isa = PBXBuildFile; fileRef = 4923FA401B8556C3002A6654 /* NSSet+ObjectiveSugar.m */; };
-		4923FA4E1B8556C3002A6654 /* NSString+ObjectiveSugar.h in Headers */ = {isa = PBXBuildFile; fileRef = 4923FA411B8556C3002A6654 /* NSString+ObjectiveSugar.h */; };
+		4923FA4E1B8556C3002A6654 /* NSString+ObjectiveSugar.h in Headers */ = {isa = PBXBuildFile; fileRef = 4923FA411B8556C3002A6654 /* NSString+ObjectiveSugar.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4923FA4F1B8556C3002A6654 /* NSString+ObjectiveSugar.m in Sources */ = {isa = PBXBuildFile; fileRef = 4923FA421B8556C3002A6654 /* NSString+ObjectiveSugar.m */; };
 /* End PBXBuildFile section */
 
@@ -119,11 +119,11 @@
 			files = (
 				4923FA461B8556C3002A6654 /* NSDictionary+ObjectiveSugar.h in Headers */,
 				4923FA4C1B8556C3002A6654 /* NSSet+ObjectiveSugar.h in Headers */,
-				4923FA441B8556C3002A6654 /* NSArray+ObjectiveSugar.h in Headers */,
 				4923FA4E1B8556C3002A6654 /* NSString+ObjectiveSugar.h in Headers */,
 				4923FA4A1B8556C3002A6654 /* NSNumber+ObjectiveSugar.h in Headers */,
-				4923FA281B855682002A6654 /* ObjectiveSugar.h in Headers */,
 				4923FA481B8556C3002A6654 /* NSMutableArray+ObjectiveSugar.h in Headers */,
+				4923FA441B8556C3002A6654 /* NSArray+ObjectiveSugar.h in Headers */,
+				4923FA281B855682002A6654 /* ObjectiveSugar.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
