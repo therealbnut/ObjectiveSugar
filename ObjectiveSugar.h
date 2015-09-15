@@ -21,10 +21,10 @@ FOUNDATION_EXPORT const unsigned char ObjectiveSugarVersionString[];
 #define until(condition...) while(!(condition))
 
 // OBJC SUGAR
-#import "NSNumber+ObjectiveSugar.h"
-#import "NSArray+ObjectiveSugar.h"
-#import "NSMutableArray+ObjectiveSugar.h"
-#import "NSDictionary+ObjectiveSugar.h"
-#import "NSSet+ObjectiveSugar.h"
-#import "NSString+ObjectiveSugar.h"
+#import <ObjectiveSugar/NSNumber+ObjectiveSugar.h>
+#import <ObjectiveSugar/NSArray+ObjectiveSugar.h>
+#import <ObjectiveSugar/NSMutableArray+ObjectiveSugar.h>
+#import <ObjectiveSugar/NSDictionary+ObjectiveSugar.h>
+#import <ObjectiveSugar/NSSet+ObjectiveSugar.h>
+#import <ObjectiveSugar/NSString+ObjectiveSugar.h>
 
