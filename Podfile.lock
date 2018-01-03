@@ -1,0 +1,19 @@
+PODS:
+  - Kiwi (2.3.1)
+  - ObjectiveSugar (1.1.1)
+
+DEPENDENCIES:
+  - Kiwi (~> 2.3.0)
+  - ObjectiveSugar (from `.`)
+
+EXTERNAL SOURCES:
+  ObjectiveSugar:
+    :path: .
+
+SPEC CHECKSUMS:
+  Kiwi: f038a6c61f7a9e4d7766bff5717aa3b3fdb75f55
+  ObjectiveSugar: 63a01503470bf5c5df20d1d86f092f4064469fbf
+
+PODFILE CHECKSUM: 7e1069a9c41c047611e072bd8b26291e1e4dd574
+
+COCOAPODS: 1.3.1

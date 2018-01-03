@@ -1,0 +1,4 @@
+module ObjectiveSugar {
+    umbrella header "/Users/andrew/Downloads/vendor-deps/ObjectiveSugar/Sources/ObjectiveSugar/include/ObjectiveSugar.h"
+    export *
+}
